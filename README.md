@@ -42,6 +42,6 @@ This is a tool for education only, I am not responsible for any misuse
 **If you want to donate, click on the button**
 <a href="https://saweria.co/whomrx"><img title="Donate" src="https://img.shields.io/badge/Donate-Xcheckhost-yellow?style=for-the-badge&logo=github"></a>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+👋;Made+with+💚+by+Whomrx666" alt="Typing SVG" />
+<p align="right">
+  <img src="https://img.shields.io/badge/🌟_Thank_you_for_visiting!-00FF00?style=for-the-badge&logo=github" alt="Thanks badge"/>
 </p>
