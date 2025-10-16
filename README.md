@@ -42,6 +42,14 @@ This is a tool for education only, I am not responsible for any misuse
 **If you want to donate, click on the button**
 <a href="https://saweria.co/whomrx"><img title="Donate" src="https://img.shields.io/badge/Donate-Xcheckhost-yellow?style=for-the-badge&logo=github"></a>
 
-## Visitor
+---
 
-![Online Visitor](https://komarev.com/ghpvc/?username=Whomrx666&color=blue&style=flat&label=VISITORS)
+<p align="center">
+  ✨ Keep coding and stay awesome! ✨
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Whomrx666&label=Visitors&color=brightgreen&style=flat-square" alt="Visitor count"/>
+</p>
+
+---
